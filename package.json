@@ -30,7 +30,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-tasks",
+  "mcpName": "io.github.itsryanarmani/agentic-tasks",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
